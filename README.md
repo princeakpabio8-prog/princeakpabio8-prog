@@ -14,9 +14,9 @@ Rather than building isolated applications, I design intelligent systems that or
 
 # About
 
-I enjoy solving practical problems through software engineering.
-
-From architecture and backend systems to AI integration and deployment, I build products that combine thoughtful design with real-world usefulness.
+I build intelligent software that helps people and organizations make informed decisions.
+My work focuses on sectors where trust, verification, and structured information matter—from healthcare and law to artificial intelligence, finance, careers, and business intelligence.
+I enjoy designing systems that organize complex information into practical workflows people can rely on.
 
 My work spans:
 
