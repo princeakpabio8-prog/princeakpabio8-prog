@@ -40,7 +40,7 @@ Every product begins with a genuine problem and is designed to create measurable
 # HealLink
 
 ## AI-Powered Digital Health Platform for Trusted Healthcare
-145FE294-B47D-4A58-A4B1-3F36105E1D56.png
+![HealLink Hero](145FE294-B47D-4A58-A4B1-3F36105E1D56.png)
 
 HealLink is a digital health platform that connects patients with verified healthcare professionals while helping communities access trustworthy medical information through AI-assisted verification.
 
