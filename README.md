@@ -146,3 +146,155 @@ CallCatch combines company intelligence, opportunity analysis, and AI-assisted o
 **Repository**
 
 👉 https://github.com/princeakpabio8-prog/callcatch-growth-engine
+
+
+---
+
+# 🏗️ Engineering Philosophy
+
+I believe software should solve meaningful problems.
+
+Every product I build starts with understanding people, identifying the root problem, and designing systems that are practical, scalable, and valuable.
+
+I enjoy working across the entire product lifecycle—from research and architecture to implementation, testing, deployment, and continuous improvement.
+
+My approach combines systems thinking with rapid execution. Rather than chasing trends, I focus on building software that creates measurable impact for users and organizations.
+
+## My Engineering Principles
+
+- Solve real problems before writing code.
+- Build simple systems that can grow.
+- Prefer clarity over unnecessary complexity.
+- Design AI to assist people, not replace judgment.
+- Ship early, gather feedback, and iterate continuously.
+- Treat software quality, reliability, and trust as first-class features.
+
+I enjoy working on products where engineering, AI, and business strategy come together to create meaningful solutions.
+
+
+---
+
+# 🛠️ Technical Skills
+
+## Languages
+
+- JavaScript
+- TypeScript
+- Python
+- SQL
+- HTML
+- CSS
+
+## Frontend
+
+- React
+- Next.js
+- Responsive UI
+- Tailwind CSS
+
+## Backend
+
+- Node.js
+- FastAPI
+- REST APIs
+
+## Databases
+
+- PostgreSQL
+- Firebase
+
+## AI & Automation
+
+- Large Language Models (LLMs)
+- Prompt Engineering
+- AI Workflows
+- Multi-Agent Systems
+- AI Product Design
+
+## Cloud & DevOps
+
+- Git
+- GitHub
+- Render
+- Railway
+- Environment Management
+
+## APIs & Integrations
+
+- SMTP
+- Resend
+- Brave Search API
+- Google AI APIs
+- Third-party REST APIs
+
+
+---
+
+# 🚀 What I Bring
+
+Beyond writing code, I enjoy taking products from an idea to a working system.
+
+My experience spans the full product lifecycle:
+
+- 🔍 Identifying real-world problems worth solving
+- 🧠 Designing product and system architecture
+- 💻 Building full-stack web applications
+- 🤖 Integrating AI into practical workflows
+- 🔗 Connecting third-party APIs and services
+- 🧪 Testing, debugging, and improving reliability
+- 🚀 Deploying production-ready applications
+- 📈 Iterating quickly based on user feedback
+
+I thrive in environments where curiosity, ownership, and continuous learning are valued.
+
+Whether working independently or as part of a team, I enjoy turning ambitious ideas into software that people can actually use.
+
+
+---
+
+# 🌍 Open to Opportunities
+
+I'm currently open to opportunities in:
+
+- Software Engineering
+- AI Engineering
+- Full-Stack Development
+- Product Engineering
+- Backend Engineering
+- Intelligent Automation
+- Applied AI
+
+I'm particularly interested in working with teams building products that create real impact through technology.
+
+📍 Based in Nigeria
+
+🇬🇧 Open to UK Skilled Worker sponsorship opportunities
+
+🌍 Open to Remote Opportunities
+
+
+---
+
+# 📫 Let's Connect
+
+If you're building something meaningful—or looking for engineers who enjoy solving difficult problems through thoughtful software—I'd love to connect.
+
+## GitHub
+
+https://github.com/princeakpabio8-prog
+
+## Founder Profile
+
+https://www.veritrade.site/founder
+
+## VeriTrade AI
+
+https://www.veritrade.site
+
+---
+
+> *"The best software doesn't begin with code.*
+>
+> *It begins with understanding the problem worth solving."*
+
+— Prince Akpabio
