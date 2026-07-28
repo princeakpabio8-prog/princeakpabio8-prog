@@ -1,300 +1,274 @@
-# Hi, I'm Prince Akpabio 👋
+# Prince Akpabio
 
-I'm a Systems Engineer and AI Product Builder.
+## Systems Engineer | Full-Stack Developer | Intelligent Decision Systems
 
-I enjoy identifying complex real-world problems and designing software that solves them.
+I build software that helps people and organizations make better decisions.
 
-Across healthcare, AI governance, market intelligence, career technology, and business intelligence, my work focuses on one question:
+Across healthcare, law, artificial intelligence, business intelligence, financial technology, and career development, my work focuses on one recurring problem:
 
-> "Can software make better decisions, faster, and more responsibly?"
+**People make better decisions when they have trustworthy information.**
 
-Below are some of the products I've built.
-
----
-
-## My Mission
-
-Technology should solve meaningful problems.
-
-Whether it's helping underserved communities access verified healthcare, making AI systems more trustworthy, improving career opportunities, or giving businesses better intelligence, I enjoy building software that creates measurable impact.
-
-Every product in this portfolio began with a real problem—not a tutorial.
-
-
-# 🚀 Featured Projects
+Rather than building isolated applications, I design intelligent systems that organize information, verify evidence where appropriate, automate complex workflows, and help users act with greater confidence.
 
 ---
 
-## 🩺 HealLink — Verified Healthcare Platform
+# About
 
-**The Problem**
+I enjoy solving practical problems through software engineering.
 
-Millions of people, particularly in underserved communities, struggle to access trusted healthcare professionals. Verifying qualified medical practitioners remains a challenge, leaving many vulnerable to misinformation and unsafe care.
+From architecture and backend systems to AI integration and deployment, I build products that combine thoughtful design with real-world usefulness.
 
-**The Solution**
+My work spans:
 
-HealLink is a digital health platform designed to connect patients and communities with verified doctors and nurses, making trusted healthcare more accessible while strengthening confidence in digital healthcare services.
-
-**Focus Areas**
-
-- Patient-to-provider matching
-- Verified healthcare professionals
-- Community healthcare access
-- Telehealth readiness
-- Digital health infrastructure
-
-**Repository**
-
-👉 https://github.com/princeakpabio8-prog/heallink
-
----
-
-## 🛡 VeriEdit AI — Trust Infrastructure for Artificial Intelligence
-
-**The Problem**
-
-As AI becomes part of critical business workflows, organizations need reliable ways to verify, audit, and govern AI-generated decisions.
-
-**The Solution**
-
-VeriEdit AI is building trust infrastructure for AI systems by helping organizations verify, audit, and control AI decisions before they become business risks.
-
-**Focus Areas**
-
+- Healthcare Technology
+- Artificial Intelligence
 - AI Governance
-- Responsible AI
-- Decision Verification
-- Enterprise Trust
-- AI Risk Management
-
-**Repository**
-
-👉 https://github.com/princeakpabio8-prog/VeriEditAI
-
----
-
-## 📈 VeriTrade AI — AI Market Intelligence Platform
-
-**The Problem**
-
-Financial markets generate overwhelming amounts of information, making it difficult for traders to consistently make disciplined decisions.
-
-**The Solution**
-
-VeriTrade AI is an AI-powered market intelligence platform designed to help users understand market structure, identify opportunities, and make more informed decisions through data-driven insights.
-
-**Focus Areas**
-
-- Market Intelligence
-- Decision Support
+- Legal Technology
 - Financial Technology
-- AI Automation
-- Risk Awareness
-
-**Founder Profile**
-
-👉 https://www.veritrade.site/founder
-
-**Repository**
-
-👉 https://github.com/princeakpabio8-prog/quiet-vault-desk
-
----
-
-## 💼 CareerPilot AI — AI Career Platform
-
-**The Problem**
-
-Finding opportunities and managing job applications is often fragmented, repetitive, and inefficient.
-
-**The Solution**
-
-CareerPilot AI helps job seekers organize their career journey using AI-assisted workflows for discovering opportunities and managing applications.
-
-**Focus Areas**
-
-- Career Technology
-- AI Assistance
-- Job Discovery
-- Productivity
-- Opportunity Management
-
-**Repository**
-
-👉 https://github.com/princeakpabio8-prog/careerpilot-ai
-
----
-
-## 🎯 CallCatch — AI Opportunity Intelligence Platform
-
-**The Problem**
-
-Businesses spend significant time researching prospects, identifying opportunities, and creating personalized outreach.
-
-**The Solution**
-
-CallCatch combines company intelligence, opportunity analysis, and AI-assisted outreach into a structured workflow that helps businesses prioritize high-potential opportunities.
-
-**Focus Areas**
-
 - Business Intelligence
-- Opportunity Intelligence
-- AI Research
-- Sales Automation
-- CRM Workflows
-
-**Repository**
-
-👉 https://github.com/princeakpabio8-prog/callcatch-growth-engine
-
-
----
-
-# 🏗️ Engineering Philosophy
-
-I believe software should solve meaningful problems.
-
-Every product I build starts with understanding people, identifying the root problem, and designing systems that are practical, scalable, and valuable.
-
-I enjoy working across the entire product lifecycle—from research and architecture to implementation, testing, deployment, and continuous improvement.
-
-My approach combines systems thinking with rapid execution. Rather than chasing trends, I focus on building software that creates measurable impact for users and organizations.
-
-## My Engineering Principles
-
-- Solve real problems before writing code.
-- Build simple systems that can grow.
-- Prefer clarity over unnecessary complexity.
-- Design AI to assist people, not replace judgment.
-- Ship early, gather feedback, and iterate continuously.
-- Treat software quality, reliability, and trust as first-class features.
-
-I enjoy working on products where engineering, AI, and business strategy come together to create meaningful solutions.
-
-
----
-
-# 🛠️ Technical Skills
-
-## Languages
-
-- JavaScript
-- TypeScript
-- Python
-- SQL
-- HTML
-- CSS
-
-## Frontend
-
-- React
-- Next.js
-- Responsive UI
-- Tailwind CSS
-
-## Backend
-
-- Node.js
-- FastAPI
-- REST APIs
-
-## Databases
-
-- PostgreSQL
-- Firebase
-
-## AI & Automation
-
-- Large Language Models (LLMs)
-- Prompt Engineering
-- AI Workflows
-- Multi-Agent Systems
-- AI Product Design
-
-## Cloud & DevOps
-
-- Git
-- GitHub
-- Render
-- Railway
-- Environment Management
-
-## APIs & Integrations
-
-- SMTP
-- Resend
-- Brave Search API
-- Google AI APIs
-- Third-party REST APIs
-
-
----
-
-# 🚀 What I Bring
-
-Beyond writing code, I enjoy taking products from an idea to a working system.
-
-My experience spans the full product lifecycle:
-
-- 🔍 Identifying real-world problems worth solving
-- 🧠 Designing product and system architecture
-- 💻 Building full-stack web applications
-- 🤖 Integrating AI into practical workflows
-- 🔗 Connecting third-party APIs and services
-- 🧪 Testing, debugging, and improving reliability
-- 🚀 Deploying production-ready applications
-- 📈 Iterating quickly based on user feedback
-
-I thrive in environments where curiosity, ownership, and continuous learning are valued.
-
-Whether working independently or as part of a team, I enjoy turning ambitious ideas into software that people can actually use.
-
-
----
-
-# 🌍 Open to Opportunities
-
-I'm currently open to opportunities in:
-
-- Software Engineering
-- AI Engineering
-- Full-Stack Development
-- Product Engineering
-- Backend Engineering
+- Career Technology
 - Intelligent Automation
-- Applied AI
 
-I'm particularly interested in working with teams building products that create real impact through technology.
-
-📍 Based in Nigeria
-
-🇬🇧 Open to UK Skilled Worker sponsorship opportunities
-
-🌍 Open to Remote Opportunities
-
+Every product begins with a genuine problem and is designed to create measurable value for its users.
 
 ---
 
-# 📫 Let's Connect
+# Selected Projects
 
-If you're building something meaningful—or looking for engineers who enjoy solving difficult problems through thoughtful software—I'd love to connect.
+## HealLink
 
-## GitHub
+Digital healthcare platform connecting patients with verified healthcare professionals while helping communities verify medical information using AI.
 
-https://github.com/princeakpabio8-prog
+Key capabilities include:
 
-## Founder Profile
+- Verified healthcare professionals
+- AI-powered medical claim verification
+- Teleconsultation workflows
+- Patient and practitioner dashboards
+- Community healthcare accessibility
+
+Repository
+
+https://github.com/princeakpabio8-prog/heallink
+
+---
+
+## VeriEdit AI
+
+Trust infrastructure for artificial intelligence.
+
+VeriEdit AI helps organizations verify, audit, and structure AI-generated outputs before they become business decisions.
+
+The platform is designed around responsible AI, governance, transparency, and evidence-based verification.
+
+Repository
+
+https://github.com/princeakpabio8-prog/VeriEditAI
+
+---
+
+## VeriLex
+
+Legal technology platform powered by VeriEdit AI.
+
+VeriLex helps individuals prepare legal matters before speaking with a legal professional.
+
+The platform structures legal information, verifies supporting evidence, analyzes contracts, and produces organized case summaries that can be reviewed by qualified legal practitioners.
+
+VeriLex is designed to support—not replace—professional legal advice.
+
+Core capabilities include:
+
+- Contract analysis
+- Evidence verification
+- Case preparation
+- AI-assisted document review
+- Legal workflow organization
+
+---
+
+## VeriTrade AI
+
+AI-powered market intelligence platform.
+
+VeriTrade AI helps traders understand markets through structured intelligence rather than speculation.
+
+The platform focuses on market clarity, risk awareness, and disciplined decision-making.
+
+Founder Profile
 
 https://www.veritrade.site/founder
 
-## VeriTrade AI
+Repository
+
+https://github.com/princeakpabio8-prog/quiet-vault-desk
+
+---
+
+## CareerPilot AI
+
+Career technology platform designed to help professionals discover opportunities, organize applications, and navigate their career journey more effectively.
+
+Repository
+
+https://github.com/princeakpabio8-prog/careerpilot-ai
+
+---
+
+## CallCatch
+
+Opportunity Intelligence Platform.
+
+CallCatch researches companies, identifies opportunities, structures business intelligence, and assists with personalized outreach through AI-assisted workflows.
+
+Repository
+
+https://github.com/princeakpabio8-prog/callcatch-growth-engine
+
+---
+
+# Engineering Philosophy
+
+Technology should solve meaningful problems.
+
+I believe the strongest software products are built by first understanding people, then designing systems that make difficult decisions easier.
+
+My engineering approach is guided by a few principles:
+
+- Solve meaningful problems.
+- Design for clarity.
+- Build trustworthy systems.
+- Ship early and improve continuously.
+- Treat reliability as a product feature.
+- Keep humans responsible for important decisions.
+
+---
+
+# Technical Experience
+
+Languages
+
+JavaScript
+
+TypeScript
+
+Python
+
+SQL
+
+HTML
+
+CSS
+
+Frontend
+
+React
+
+Next.js
+
+Tailwind CSS
+
+Backend
+
+Node.js
+
+FastAPI
+
+REST APIs
+
+Databases
+
+PostgreSQL
+
+Firebase
+
+Artificial Intelligence
+
+Large Language Models
+
+Prompt Engineering
+
+Workflow Automation
+
+AI Integration
+
+Decision Support Systems
+
+Cloud
+
+GitHub
+
+Render
+
+Railway
+
+API Integrations
+
+SMTP
+
+Resend
+
+Brave Search API
+
+Google AI APIs
+
+Third-party REST APIs
+
+---
+
+# Current Focus
+
+My current work explores how intelligent software can improve decision-making across different industries by combining artificial intelligence, structured workflows, and trustworthy information.
+
+Areas of interest include:
+
+- Healthcare Technology
+- Legal Technology
+- AI Governance
+- Market Intelligence
+- Business Intelligence
+- Intelligent Automation
+
+---
+
+# Opportunities
+
+I am open to opportunities involving:
+
+Software Engineering
+
+AI Engineering
+
+Backend Engineering
+
+Full-Stack Development
+
+Product Engineering
+
+Applied Artificial Intelligence
+
+Remote Engineering Roles
+
+UK Skilled Worker Sponsorship
+
+---
+
+# Contact
+
+GitHub
+
+https://github.com/princeakpabio8-prog
+
+Founder Profile
+
+https://www.veritrade.site/founder
+
+VeriTrade AI
 
 https://www.veritrade.site
 
 ---
 
-> *"The best software doesn't begin with code.*
->
-> *It begins with understanding the problem worth solving."*
+*"Good software does more than automate work.*
 
-— Prince Akpabio
+*It helps people make better decisions."*
